@@ -1,3 +1,3 @@
-#this is python code to display "hello  world' message
+#this is python code to display "hello  world" message
 print("Hello world")
 print("Foss practical on Github") 
